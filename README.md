@@ -1,2 +1,2 @@
-# Exercicios.HTML
- Minhas praticas com HTML
+# Exerícios.HTML
+ Minhas práticas com HTML
